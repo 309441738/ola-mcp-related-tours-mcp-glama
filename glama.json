@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "Related Tour Packages",
+  "description": "Explore related land tour packages that complement your cruise experience, enriching your travel journey."
+}
